@@ -1,0 +1,4 @@
+﻿Сборка начата…
+1>------ Сборка начата: проект: yield-return-smooth, Конфигурация: Debug Any CPU ------
+1>  yield-return-smooth -> D:\Hard Disk\files\code\Smooth\bin\Debug\yield.exe
+========== Сборка: успешно: 1, с ошибками: 0, без изменений: 0, пропущено: 0 ==========
